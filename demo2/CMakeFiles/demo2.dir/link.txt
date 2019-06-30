@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/demo2.dir/MathFunctions.c.o CMakeFiles/demo2.dir/main.c.o  -o demo2 

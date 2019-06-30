@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/demo3.dir/main.c.o  -o demo3 math/libMathFunctions.a 

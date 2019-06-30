@@ -1,0 +1,3 @@
+/home/leo/work/cmake_test/dome2/CMakeFiles/rebuild_cache.dir
+/home/leo/work/cmake_test/dome2/CMakeFiles/demo2.dir
+/home/leo/work/cmake_test/dome2/CMakeFiles/edit_cache.dir
